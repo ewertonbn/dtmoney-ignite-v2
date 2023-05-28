@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-05T01:10:45.204Z"
+    },
+    {
+      "id": 2,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2023-05-05T01:10:45.204Z"
+    },
+    {
+      "category": "Empresa",
+      "description": "DAS",
+      "price": 375,
+      "type": "outcome",
+      "createdAt": "2023-05-06T16:55:32.256Z",
+      "id": 3
+    },
+    {
+      "category": "Desenvolvimento",
+      "description": "Desenvolvimento de software",
+      "price": 15000,
+      "type": "income",
+      "createdAt": "2023-05-06T19:03:22.709Z",
+      "id": 4
+    },
+    {
+      "category": "Lazer",
+      "description": "Shopping",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2023-05-06T20:32:12.040Z",
+      "id": 5
+    },
+    {
+      "category": "Desenvolvimento",
+      "description": "Desenvolvimento de blog",
+      "price": 3500,
+      "type": "income",
+      "createdAt": "2023-05-06T20:38:04.500Z",
+      "id": 6
+    },
+    {
+      "category": "Marketing Digital",
+      "description": "Gerenciamento de rede social",
+      "price": 4500,
+      "type": "income",
+      "createdAt": "2023-05-06T20:38:35.662Z",
+      "id": 7
+    },
+    {
+      "category": "Empresa",
+      "description": "Gerenciamento de rede social",
+      "price": 3200,
+      "type": "income",
+      "createdAt": "2023-05-06T20:39:02.813Z",
+      "id": 8
+    }
+  ]
+}
